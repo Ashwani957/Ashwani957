@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript,React, HTML, Css ,tailwind,Java**
 
-- How to rech me **ashwanimaurya957@gmail.com**
+- How to reach me **ashwanimaurya957@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
