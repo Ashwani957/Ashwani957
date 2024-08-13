@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ashwanimau40074" target="blank"><img src="https://img.shields.io/twitter/follow/@ashwanimau40074?logo=twitter&style=for-the-badge" alt="@ashwanimau40074" /></a> </p>
 
-- I'm currently Studying Computer Science **project name**
+- I'm currently Studying Computer Science  
 
 - 🌱 I’m currently learning **MERN**
 
